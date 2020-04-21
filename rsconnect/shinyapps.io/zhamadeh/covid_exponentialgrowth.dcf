@@ -1,0 +1,10 @@
+name: covid_exponentialgrowth
+title:
+username:
+account: zhamadeh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2017823
+bundleId: 2956730
+url: https://zhamadeh.shinyapps.io/covid_exponentialgrowth/
+when: 1585789144.6162
